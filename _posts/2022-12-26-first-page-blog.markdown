@@ -1,7 +1,6 @@
 ---
 layout: "post"
 title: "This is the first blog"
-author: "Khyati"
 ---
 
 <!-- layout.author -->
