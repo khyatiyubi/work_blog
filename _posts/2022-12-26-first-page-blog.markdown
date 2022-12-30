@@ -4,7 +4,7 @@ title: "This is the first blog"
 author: "Khyati"
 ---
 
-layout.author
+<!-- layout.author -->
 There are cases where a client may request to create new fields, or to modify existing fields in regard to their business needs. In such scenarios, one needs to proceed with certain steps to make the necessary changes in keeping a view of which version the originator comes into. This report documents the procedure for the v1 clients such as `finnable,krazybee,etc.`
 
 ## 1. Updating the existing fields
